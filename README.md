@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
+## 👋 About Me
+
+I am a passionate and results-driven software developer with expertise in building web, mobile, and desktop applications. My core focus lies in architecting and developing scalable, high-performance systems that solve real-world problems — particularly within distributed systems and modern software architectures.
+
+Driven by curiosity and continuous learning, I explore and prototype innovative solutions through hands-on research. The architectures and projects featured in my repositories are the direct outcome of my independent investigations and technical experimentation.
+
+I specialize in crafting modern, user-focused front-end applications using technologies such as React.js, Next.js, Vue.js, Vite, and TanStack Query, among others. I leverage cutting-edge frontend ecosystems and patterns to deliver performant, maintainable, and enterprise-grade solutions capable of adapting to complex, real-time business environments.
+
