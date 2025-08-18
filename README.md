@@ -23,3 +23,10 @@ Driven by curiosity and continuous learning, I explore and prototype innovative 
 
 I specialize in crafting modern, user-focused front-end applications using technologies such as React.js, Next.js, Vue.js, Vite, and TanStack Query, among others. I leverage cutting-edge frontend ecosystems and patterns to deliver performant, maintainable, and enterprise-grade solutions capable of adapting to complex, real-time business environments.
 
+## 💼 Skills & Technologies
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
